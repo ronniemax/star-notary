@@ -1,0 +1,5 @@
+#Ignore embedded db data
+local_db
+
+#Ignore node modules
+node_modules
